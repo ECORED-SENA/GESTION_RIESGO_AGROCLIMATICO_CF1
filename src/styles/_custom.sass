@@ -1,0 +1,72 @@
+.img-a 
+  display: block 
+  margin: auto   
+  width: auto
+  height: auto
+.tabs-a
+    &__tab
+      display: block
+      width: 100%
+      text-align: left
+      background-color: #E8E8E8
+      padding: 15px 20px
+      border-radius: 5px
+      color: black !important
+      &__text
+        overflow: hidden
+        text-overflow: ellipsis
+      &:last-child
+        margin-bottom: 0 !important
+      &:hover, &:active, &:focus
+        color: $color-primario
+        background-color: $color-acento-contenido
+      &__selected
+        background-color: $color-acento-contenido
+        font-weight: $base-bold-font-weight
+        color: white !important
+.blockquote 
+  border: #707070 3px solid !important
+  padding: 3px 10px
+  border-bottom-left-radius: 30px
+  border-top-right-radius: 30px
+  border-top-left-radius: 30px
+  background-color: #FFFFFF
+.blockquote-1 
+  background-color: #F2EEEC
+.blockquote-2
+  background-color: #DEECBF
+.color-cajon
+  background-color: #D1CAC7
+.BorTit
+  border-left: 5px solid $color-acento-contenido
+  padding: 6px 0px 6px 10px
+  margin-top: 6px
+.color-custom
+	background-color: #F6F6F6
+	&::before
+		background-color: #A9BC62
+@media (max-width: 990px) 
+  .banner-principal
+    .container.tarjeta
+      background-image: url('../assets/curso/images/header/fondo-banner-principal-1.png') !important
+.jumbotron
+	padding: 15px 10px
+	margin-bottom: 1rem 
+	background-color: #12263F
+	border-radius: .3rem
+.jumbotron-1
+	background-color: #FFFFFF
+.al-bg
+  margin-top: -15% !important
+.tarjeta.color-acento-botones--borde 
+    background-color: white;
+    color: #12263F;
+    border: solid 4px #D6D6D6;
+.cajon.color-secundario 
+    background-color: #afa0a0
+.cajon.color-primario 
+    background-color: #EAF7FC
+
+
+
+		
