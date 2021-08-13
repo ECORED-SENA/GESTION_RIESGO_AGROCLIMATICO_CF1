@@ -45,28 +45,17 @@
               h4.text-center Brillo solar
             .p-4  
               p Medición de las horas de sol efectivo en el día (brillo solar o insolación), que se asocia a la cantidad de tiempo durante el cual la superficie del suelo es irradiada por la radiación solar directa (IDEAM, s.f., p. 39)
-
-
-
-
-
-
-
-
-
-
-
     .row
       .col-12.col-md-8.col-lg-6.col-xl-7
-        br
+        
         p.mb-3 Uno de los principales impactos que genera la variabilidad climática en el sector productivo empieza por el aumento de los precios de los insumos para poder cultivar  y después obtener buenas cosechas; el momento en que las condiciones del clima cambian en un ciclo en el que se creía tener un clima estable genera cambios para los productores, ya que se propagan plagas y enfermedades  ocasionando la compra de más insumos como insecticidas, fungicidas, y abonos para aumentar la productividad de estas cosechas.
 
         .cajon.color-primario.p-4.mb-4
         
           p Asimismo, cuando al productor se le incrementan estos precios deberá vender los productos más costosos, siendo así la afectación directa tanto para el productor como para el consumidor final. Todo esto conlleva a impactos socioeconómicos porque la agricultura depende del comportamiento de las lluvias y las temperaturas, las cuales pueden afectar o beneficiar los ciclos vegetativos y obtener una buena cosecha o pérdidas de producción. 
-    
+        
       .col-12.col-md-8.col-lg-5.col-xl-5.mb-3
-        img(src="@/assets/curso/images/tema3/img_2.svg" alt="", style="width:400px; display:block; margin:0 auto;")
+        img(src="@/assets/curso/images/tema3/img_2.svg" alt="", style="width:500px; display:block; margin:0 auto;")
     p.mb-5 Afortunadamente se ha estado promoviendo la adaptación al cambio climático, con acompañamiento se realizan propuestas para minimizar riesgos dentro de los cultivos, garantizando la adaptación y la mejora continua de la producción agrícola.
 
     .row.justify-content-center.align-items-center.mb-3

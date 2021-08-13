@@ -48,7 +48,7 @@
       .col-auto
         img(src="@/assets/curso/images/tema2/img_1.svg" alt="")
 
-    #t_2_2.titulo-segundo
+    #t_2_3.titulo-segundo
       .h4  2.3 Decretos y leyes
 
     .row.justify-content-center.align-items-center.mb-5
@@ -71,7 +71,7 @@
             .col-md-12.mb-4.mb-md-0   
               p.mb-3 Por medio del cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco del Artículo 42 de la Ley 1523 de 2012 (Decreto 2157 /2017, p. 1).
 
-        
+    p La finalidad de los decretos y leyes encaminados a la gestión del riesgo agroclimático es orientar y reglamentar las medidas de prevención y correctivas que se deben tener en cuenta en cualquier eventualidad que se dé, que pueda terminar en desastre y que presente cualquier tipo de calamidad. Así como se citan a continuación los siguientes decretos y leyes.  
 
 
     

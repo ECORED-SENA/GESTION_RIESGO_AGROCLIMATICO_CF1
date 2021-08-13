@@ -54,7 +54,12 @@
             Separador
           
             p.mb-3.text-center Es el proceso de identificación de riesgos, su valoración, seguimiento y monitoreo, conociendo toda la información se pueden generar condiciones de reducción y manejo de desastres.
-            p.mb-3.text-center Las características emprendedoras personales ligadas a esta necesidad son: buscar oportunidades y tomar iniciativas, ser persistente, exigir eficiencia y calidad, cumplir compromisos, y tomar riesgos moderados.
+            br
+            br
+            br
+            br
+            br
+            br
             
             img.img-a(src="@/assets/curso/images/tema1/pin.svg" alt="",)
       .col-lg-4.d-flex
@@ -65,8 +70,10 @@
             p.text-center <b>Reducción del riesgo</b>
             Separador
             p.mb-3.text-center Se busca la intervención con intención de modificar o disminuir las condiciones de riesgo existentes previniendo riesgos en el lugar, reduciendo así la amenaza, la exposición y disminuyendo la vulnerabilidad de las personas.
-
-            p.text-center Las características emprendedoras personales ligadas a esta necesidad son: crear redes de apoyo y tener autoconfianza
+            br
+            br
+            br
+            br
             br
           
             img.img-a(src="@/assets/curso/images/tema1/pin.svg" alt="",)

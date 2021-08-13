@@ -42,12 +42,12 @@ export default {
       },
     ],
     subMenu: [
-      //{
-      //   nombreRuta: 'actividad',
-      //  icono: 'far fa-question-circle',
-      //  titulo: 'Actividad didáctica',
-      //  desarrolloContenidos: true,
-      //},
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -131,6 +131,11 @@ export default {
         'Es el conjunto fluctuante de las condiciones atmosféricas, caracterizado por los estados y evoluciones del tiempo en un período y región dados, controlado por factores forzantes y determinantes y, por la interacción entre los diferentes componentes del sistema climático (atmósfera, hidrosfera, litosfera, criósfera, biosfera y antropósfera) (IDEAM, 2019, p. 60)',
     },
     {
+      termino: 'Gestión',
+      significado:
+        'Se define como el proceso de identificar, analizar y cuantificar las probabilidades de pérdidas y efectos secundarios que se desprenden de los desastres, así como de las acciones preventivas, correctivas y reductivas (EIRD, s.f., p. 1)',
+    },
+    {
       termino: 'Peligro',
       significado:
         'Es una fuente, situación o acto con potencial para causar daños o situaciones peligrosas que conduzcan al deterioro de la salud (ISO 45001, 3.19)',
@@ -144,20 +149,23 @@ export default {
   complementario: [
     {
       texto: 'Decretos y leyes”',
-      tipo: 'Otro',
-      Descarga:
+      tipo:
+        'Decreto 4147 de 201. [presidente de la República de Colombia]. Por el cual se crea la Unidad Nacional para la Gestión del Riesgo de Desastres, se establece su objeto y estructura. Noviembre 3 de 2011.',
+      link:
         'http://wp.presidencia.gov.co/sitios/normativa/leyes/Documents/Juridica/DECRETO%204147%20DEL%203%20DE%20NOVIEMBRE%20DE%202011.pdf',
     },
     {
       texto: 'Decretos y leyes',
-      tipo: 'Otro',
-      descarga:
+      tipo:
+        'Decreto 2157 de 2017. Departamento Administrativo de la Presidencia de la República. Por el cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco del Artículo 42 de la Ley 1523 de 2012. Diciembre 20 de 2017.',
+      link:
         'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%202157%20DEL%2020%20DE%20DICIEMBRE%20DE%202017.pdf',
     },
     {
       texto: 'Política de gestión del riesgo de desastres',
-      tipo: 'Otro',
-      descarga:
+      tipo:
+        'Ley 1523 de 2012. Por la cual se adopta la Política Nacional de Gestión del Riesgo de Desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. Abril 24 de 2012.',
+      link:
         'http://wsp.presidencia.gov.co/Normativa/Leyes/Documents/ley152324042012.pdf',
     },
   ],
@@ -212,7 +220,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Antonio Vecino',
+        nombre: 'Jesus Antonio Vecino Valero',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
