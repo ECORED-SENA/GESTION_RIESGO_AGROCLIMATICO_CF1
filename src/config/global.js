@@ -148,25 +148,22 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Decretos y leyes”',
-      tipo:
+      texto:
         'Decreto 4147 de 201. [presidente de la República de Colombia]. Por el cual se crea la Unidad Nacional para la Gestión del Riesgo de Desastres, se establece su objeto y estructura. Noviembre 3 de 2011.',
-      link:
-        'http://wp.presidencia.gov.co/sitios/normativa/leyes/Documents/Juridica/DECRETO%204147%20DEL%203%20DE%20NOVIEMBRE%20DE%202011.pdf',
+      tipo: 'PDF',
+      link: 'downloads/DECRETO 2157 DEL 20 DE DICIEMBRE DE 2017.pdf',
     },
     {
-      texto: 'Decretos y leyes',
-      tipo:
+      texto:
         'Decreto 2157 de 2017. Departamento Administrativo de la Presidencia de la República. Por el cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco del Artículo 42 de la Ley 1523 de 2012. Diciembre 20 de 2017.',
-      link:
-        'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%202157%20DEL%2020%20DE%20DICIEMBRE%20DE%202017.pdf',
+      tipo: 'PDF',
+      link: 'downloads/DECRETO 2157 DEL 20 DE DICIEMBRE DE 2017.pdf',
     },
     {
-      texto: 'Política de gestión del riesgo de desastres',
-      tipo:
+      texto:
         'Ley 1523 de 2012. Por la cual se adopta la Política Nacional de Gestión del Riesgo de Desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. Abril 24 de 2012.',
-      link:
-        'http://wsp.presidencia.gov.co/Normativa/Leyes/Documents/ley152324042012.pdf',
+      tipo: 'PDF',
+      link: 'downloads/ley152324042012.pdf',
     },
   ],
   creditos: {
@@ -232,7 +229,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
