@@ -151,19 +151,19 @@ export default {
       texto:
         'Decreto 4147 de 201. [presidente de la República de Colombia]. Por el cual se crea la Unidad Nacional para la Gestión del Riesgo de Desastres, se establece su objeto y estructura. Noviembre 3 de 2011.',
       tipo: 'PDF',
-      link: 'downloads/DECRETO 2157 DEL 20 DE DICIEMBRE DE 2017.pdf',
+      link: 'downloads/Decreto_4147.pdf',
     },
     {
       texto:
         'Decreto 2157 de 2017. Departamento Administrativo de la Presidencia de la República. Por el cual se adoptan directrices generales para la elaboración del plan de gestión del riesgo de desastres de las entidades públicas y privadas en el marco del Artículo 42 de la Ley 1523 de 2012. Diciembre 20 de 2017.',
       tipo: 'PDF',
-      link: 'downloads/DECRETO 2157 DEL 20 DE DICIEMBRE DE 2017.pdf',
+      link: 'downloads/Decreto_ 2157.pdf',
     },
     {
       texto:
         'Ley 1523 de 2012. Por la cual se adopta la Política Nacional de Gestión del Riesgo de Desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. Abril 24 de 2012.',
       tipo: 'PDF',
-      link: 'downloads/ley152324042012.pdf',
+      link: 'downloads/ley1523.pdf',
     },
   ],
   creditos: {

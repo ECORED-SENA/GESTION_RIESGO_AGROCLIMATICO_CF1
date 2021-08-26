@@ -46,51 +46,33 @@
    
     .row.mb-5
       .col-lg-4.d-flex
-        .blockquote.p-4
+        .blockquote.p-4          
+          img.img-a(src="@/assets/curso/images/tema1/ico_4.svg"  alt="",)
           
-            img.img-a(src="@/assets/curso/images/tema1/ico_4.svg"  alt="",)
+          p.text-center <b>Riesgo del desastre</b>
+          .hr_line        
+          p.mb-3.text-center Es el proceso de identificación de riesgos, su valoración, seguimiento y monitoreo, conociendo toda la información se pueden generar condiciones de reducción y manejo de desastres.            
             
-            p.text-center <b>Riesgo del desastre</b>
-            Separador
-          
-            p.mb-3.text-center Es el proceso de identificación de riesgos, su valoración, seguimiento y monitoreo, conociendo toda la información se pueden generar condiciones de reducción y manejo de desastres.
-            br
-            br
-            br
-            br
-            br
-            br
-            
-            img.img-a(src="@/assets/curso/images/tema1/pin.svg" alt="",)
-      .col-lg-4.d-flex
-        .blockquote.p-4
-         
-            img.img-a(src="@/assets/curso/images/tema1/ico_5.svg" alt="",)
-            
-            p.text-center <b>Reducción del riesgo</b>
-            Separador
-            p.mb-3.text-center Se busca la intervención con intención de modificar o disminuir las condiciones de riesgo existentes previniendo riesgos en el lugar, reduciendo así la amenaza, la exposición y disminuyendo la vulnerabilidad de las personas.
-            br
-            br
-            br
-            br
-            br
-          
-            img.img-a(src="@/assets/curso/images/tema1/pin.svg" alt="",)
-      .col-lg-4.d-flex
-        .blockquote.p-4
-          
-            img.img-a(src="@/assets/curso/images/tema1/ico_6.svg" alt="",)
+          img.img-a(src="@/assets/curso/images/tema1/pin.svg" alt="",)
 
-            p.text-center <b>Manejo de desastres</b>
-            Separador
-            p.text-center  Es el proceso de la gestión del riesgo, el cual trata la preparación para la respuesta a emergencias, así mismo, la preparación para después de un desastre donde se incluye la rehabilitación y recuperación. 
-            br
-            br
-            br
-            br
-            br
-            img.img-a(src="@/assets/curso/images/tema1/pin.svg" alt="",)
+      .col-lg-4.d-flex
+        .blockquote.p-4         
+          img.img-a(src="@/assets/curso/images/tema1/ico_5.svg" alt="",)
+          
+          p.text-center <b>Reducción del riesgo</b>
+          .hr_line
+          p.mb-3.text-center Se busca la intervención con intención de modificar o disminuir las condiciones de riesgo existentes previniendo riesgos en el lugar, reduciendo así la amenaza, la exposición y disminuyendo la vulnerabilidad de las personas.           
+          
+          img.img-a(src="@/assets/curso/images/tema1/pin.svg" alt="",)
+      
+      .col-lg-4.d-flex
+        .blockquote.p-4          
+          img.img-a(src="@/assets/curso/images/tema1/ico_6.svg" alt="",)
+          p.text-center <b>Manejo de desastres</b>
+          .hr_line
+          p.text-center  Es el proceso de la gestión del riesgo, el cual trata la preparación para la respuesta a emergencias, así mismo, la preparación para después de un desastre donde se incluye la rehabilitación y recuperación. 
+          
+          img.img-a(src="@/assets/curso/images/tema1/pin.svg" alt="",)
             
 
 

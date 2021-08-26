@@ -7,7 +7,6 @@
         span 2
       h1 Marco normativo y actores    
 
-
     .row.justify-content-center.align-items-center.mb-3
       .col-12
         .bloque-texto-a.color-custom.p-3.mb-5
@@ -34,8 +33,7 @@
 
         p.mb-3 Esta política brinda la contextualización en materia de normatividad y jerarquía para el manejo de desastres en Colombia, debido a la naturaleza de los riesgos asociados en el hogar, en el campo laboral y hasta en el día a día, ya que se pueden presentar diferentes entes territoriales encargados de la prevención y mitigación de desastres, es por eso que se contextualiza en este campo el objetivo de esta política. 
 
-        .cajon.color-secundario.p-4.mb-4
-        
+        .cajon.color-custom.p-4.mb-4        
           p El objetivo de la política nacional del cambio climático es incorporar su gestión en las decisiones públicas y privadas para avanzar en una senda de desarrollo resiliente al clima y baja en carbono. Esta política propone una serie de estrategias territoriales y sectoriales para la adaptación y mitigación (Política Nacional de Cambio Climático, 2017, p. 9). 
     
       .col-12.col-md-8.col-lg-5.col-xl-5.mb-3
